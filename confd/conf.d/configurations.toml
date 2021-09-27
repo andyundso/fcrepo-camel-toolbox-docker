@@ -1,0 +1,3 @@
+[template]
+src = "configuration.properties"
+dest = "/app/configuration.properties"
